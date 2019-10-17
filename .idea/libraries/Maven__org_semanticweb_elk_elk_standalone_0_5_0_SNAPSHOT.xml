@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.semanticweb.elk:elk-standalone:0.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/semanticweb/elk/elk-standalone/0.5.0-SNAPSHOT/elk-standalone-0.5.0-20171013.130451-529.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/semanticweb/elk/elk-standalone/0.5.0-SNAPSHOT/elk-standalone-0.5.0-20171013.130451-529-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/semanticweb/elk/elk-standalone/0.5.0-SNAPSHOT/elk-standalone-0.5.0-20171013.130451-529-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

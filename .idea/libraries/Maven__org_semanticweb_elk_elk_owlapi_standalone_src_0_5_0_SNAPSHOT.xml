@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.semanticweb.elk:elk-owlapi-standalone:src:0.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/semanticweb/elk/elk-owlapi-standalone/0.5.0-SNAPSHOT/elk-owlapi-standalone-0.5.0-20171013.130426-505-src.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/semanticweb/elk/elk-owlapi-standalone/0.5.0-SNAPSHOT/elk-owlapi-standalone-0.5.0-20171013.130426-505-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/semanticweb/elk/elk-owlapi-standalone/0.5.0-SNAPSHOT/elk-owlapi-standalone-0.5.0-20171013.130426-505-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

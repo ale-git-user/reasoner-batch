@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: org.snomed.otf:snomed-owl-toolkit:2.1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/snomed/otf/snomed-owl-toolkit/2.1.0/snomed-owl-toolkit-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/snomed/otf/snomed-owl-toolkit/2.1.0/snomed-owl-toolkit-2.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/snomed/otf/snomed-owl-toolkit/2.1.0/snomed-owl-toolkit-2.1.0-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../snomed-owl-toolkit/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../snomed-owl-toolkit/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
